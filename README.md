@@ -2,9 +2,10 @@
 A repository of different chatbots I have built \
 \
 Code Stack:
-- GPT-4
+- OpenAI API
 - Python
 - LangChain
+- Streamlit
 
 Bot Knowledgebase
 - From documents (PDF)
